@@ -1,0 +1,97 @@
+b {
+    background-image: linear-gradient(233deg, rgb(190 167 188 / 45%) 0%, rgb(107 129 143 / 37%) 100%);
+    background-position-x: left;
+    background-position-y: bottom;
+    background-size: 100% 5px;
+    background-repeat: no-repeat;
+    font-weight:700;
+    text-transform:uppercase;
+}
+
+u {
+   background-image: linear-gradient(233deg, rgb(107 129 143 / 37%) 0%, rgb(190 167 188 / 45%) 100%);
+    background-position-y: bottom;
+    background-size: 100% 1px;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    padding-bottom:3px;
+}
+
+i {
+  background-image: linear-gradient(233deg, #6b818f, #bea7bc);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
+
+.luu_container {
+  position: relative;
+  margin: 100px auto;
+  width:400px;
+  height:auto;
+  border: 1px solid #e0e0e0;
+  background: #f5f5f5;
+}
+
+.luu_cont_img {
+    width: 300px;
+    height: 160px;
+    border: 8px solid #bfa8bdcf;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin: 32px auto;
+    background: #ffffff;
+}
+
+.luu_cont_img img {
+  width: 300px;
+  height: 160px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  object-fit: cover;
+}
+
+.luu_title {
+    width: auto;
+    font-family: 'DM Serif Text', serif;
+    border-top: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
+    height: 40px;
+    background: #f0f0f0;
+}
+
+.luu_title_text {
+    padding: 10px;
+    color: #bfa8bd;
+    text-align: center;
+}
+
+.luu_cont_text {
+    position: relative;
+    width: 360px;
+    margin: 20px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: lowercase;
+    text-align: justify;
+    font-size: 10px;
+    line-height: 18px;
+    letter-spacing: 1px;
+}
+
+.luu_footer {
+  
+}
+
+.luu_footer sm { 
+    border: 1px solid #e0e0e0;
+    background:#f5f5f5;
+    float: right;
+    padding: 7px;
+    margin: 10px 0 10px 10px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: lowercase;
+    font-size:10px;
+}
