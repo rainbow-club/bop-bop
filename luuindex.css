@@ -74,8 +74,8 @@ i {
     text-transform: lowercase;
     text-align: justify;
     font-size: 10px;
-    line-height: 18px;
-    letter-spacing: 1px;
+    line-height: 16px;
+    letter-spacing: 0px;
 }
 
 .luu_footer {
