@@ -1,0 +1,9 @@
+@font-face {
+    font-family: getaway;
+    src: url("../luucss/getaway.otf") format('truetype');
+}
+
+@font-face {
+    font-family: gallient;
+    src: url("../luucss/GallientRegular-eZoMp.ttf") format('truetype');
+}
