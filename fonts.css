@@ -9,7 +9,11 @@
 }
 
 @font-face {
-    font-family: gallient;
+    font-family: VattenyRose;
     src: url("../luucss/VattenyRose.ttf") format('truetype');
 }
 
+@font-face {
+    font-family: Danviska;
+    src: url("../luucss/danviska.ttf") format('truetype');
+}
