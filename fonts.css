@@ -7,3 +7,9 @@
     font-family: gallient;
     src: url("../luucss/GallientRegular-eZoMp.ttf") format('truetype');
 }
+
+@font-face {
+    font-family: gallient;
+    src: url("../luucss/VattenyRose.ttf") format('truetype');
+}
+
