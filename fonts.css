@@ -22,3 +22,13 @@
     font-family: Montgrove;
     src: url("../luucss/Montgrove-Regular.otf") format('truetype');
 }
+
+@font-face {
+    font-family: Goku;
+    src: url("../luucss/Goku.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Goku Stencil;
+    src: url("../luucss/Goku Stencil.ttf") format('truetype');
+}
