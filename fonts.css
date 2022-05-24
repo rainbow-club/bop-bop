@@ -32,3 +32,73 @@
     font-family: Goku Stencil;
     src: url("../luucss/Goku Stencil.ttf") format('truetype');
 }
+
+@font-face {
+    font-family: LFL;
+    src: url("../luucss/Letters for Learners.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: LFLO;
+    src: url("../luucss/Letters for Learners Outline.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: La Obrige;
+    src: url("../luucss/La Obrige.otf") format('truetype');
+}
+
+@font-face {
+    font-family: Holligate;
+    src: url("../luucss/Holligate Signature Demo.otf") format('truetype');
+}
+
+@font-face {
+    font-family: Fort Quinsy;
+    src: url("../luucss/FORTQUINSY.otf") format('truetype');
+}
+
+@font-face {
+    font-family: Calvino Regular;
+    src: url("../luucss/Calvino-Regular-trial.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Beauty;
+    src: url("../luucss/BeautyDemo.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: August Script;
+    src: url("../luucss/August Script Bold Free.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Ananda B;
+    src: url("../luucss/Ananda Black Personal Use.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Ananda;
+    src: url("../luucss/Ananda Personal Use.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Rainbow Paper;
+    src: url("../luucss/Rainbow Paper.otf") format('truetype');
+}
+
+@font-face {
+    font-family: Riwaya;
+    src: url("../luucss/Riwaya.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Saturday Champagne;
+    src: url("../luucss/SaturdayChampagneDemo-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Sunmora;
+    src: url("../luucss/Sunmora-Bold.ttf") format('truetype');
+}
